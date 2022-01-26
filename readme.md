@@ -1,10 +1,13 @@
-[+] This is the previous collections about python3. There are basic shits about python3 like array,string,function,loop,list,set,dict and more.
+```
+[+] This is the previous collections about python3. There are basic and intermediate shits about python3 like array,string,function,loop,list,set,dict, OOP and more.
+```
 
-## Basic problem solving :
+### Basic problem solving : 🥰
 
 - codingbat.com
+- leetcode.com
 
-## Built-in data structures
+### Built-in data structures : 😍
 
 - list
 
@@ -14,8 +17,9 @@
 
 - tuple
 
-# Topics
+### Topics : 🙂
 
+```
 00.introduction
 
 01.Hello_world
@@ -63,6 +67,13 @@
 21.math
 
 22.json
+and more.
+```
 
-ETC.
-pqr
+### Object Oriendted Programming : 🤩
+
+1. Create class
+2. Create class object/instantiate
+3. Class Attributes
+4. Reasign attributes
+5. Class Constructor
