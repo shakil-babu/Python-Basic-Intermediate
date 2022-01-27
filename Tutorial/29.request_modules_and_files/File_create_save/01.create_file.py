@@ -9,3 +9,5 @@ fp.close()
 # Overwrite
 fl = open("text.txt", "w")
 fl.write("This is overwrite ")
+
+print(type(fl))
