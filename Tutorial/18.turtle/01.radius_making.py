@@ -9,8 +9,6 @@ turtle.left(90)
 turtle.forward(100)
 
 
-
-
 """
 using for loop
 
